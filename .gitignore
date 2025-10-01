@@ -13,11 +13,14 @@ env/
 .conda/
 .conda_env/
 
-# Arquivos temporários
+# Arquivos temporï¿½rios
 *.log
 *.tmp
 *.swp
 
-# Configurações locais
+# Configuraï¿½ï¿½es locais
 .DS_Store
 Thumbs.db
+
+# Notebook sÃ³ para commit
+commit.ipynb
