@@ -30,6 +30,8 @@ SEQ_KEYS_2020 = ["t1","t1ce","t2","flair","seg"]
 .
 ├─ .gitignore
 ├─ README.md
+├─ resultados.xlsx
+├─ splits.pdf
 ├─ experimentos/
 │  ├─ Dataset_viz_allslices_dataset_creation.ipynb
 │  ├─ baseline2020_*.ipynb                  # 4 notebooks (um por sequência)
