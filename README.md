@@ -151,7 +151,7 @@ Exemplo: best_BASELINE2020_T1c_T1ce.pt
 
 ---
 ## 7) Tabela de resultados e imagem ilustrativa dos splits
-O arquivo resultado.csv contém uma síntese de todos os resultados das métricas globais coletados nos experimentos.
+O arquivo resultado.xlsx contém uma síntese de todos os resultados das métricas globais coletados nos experimentos.
 
 O arquivo splits.pdf apresenta uma ilustração explicativa dos cenários testados no projeto.
 
