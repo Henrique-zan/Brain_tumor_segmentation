@@ -29,6 +29,9 @@ SEQ_KEYS_2020 = ["t1","t1ce","t2","flair","seg"]
 ```
 .
 ├─ .gitignore
+├─ Artigo.pdf
+├─ Poster.pdf
+├─ environment_conda.yaml
 ├─ README.md
 ├─ resultados.xlsx
 ├─ splits.pdf
