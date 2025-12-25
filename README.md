@@ -31,8 +31,8 @@ SEQ_KEYS_2020 = ["t1","t1ce","t2","flair","seg"]
 ├─ .gitignore
 ├─ Artigo.pdf
 ├─ Poster.pdf
-├─ environment_conda.yaml
 ├─ README.md
+├─ environment_conda.yaml
 ├─ resultados.xlsx
 ├─ splits.pdf
 ├─ experimentos/
@@ -161,7 +161,14 @@ O arquivo resultado.xlsx contém uma síntese de todos os resultados das métric
 O arquivo splits.pdf apresenta uma ilustração explicativa dos cenários testados no projeto.
 
 ---
-## 8) Reprodutibilidade
+## 8) Artigo e Poster de apresentação da pesquisa
+O arquivo Artigo.pdf contém as etapas de desenvolvimento e as conclusões do trabalho, apresentadas de forma acadêmica e detalhada.
+
+O arquivo Poster.pdf apresenta os principais pontos do projeto de maneira resumida e de rápida compreensão.
+
+---
+## 9) Reprodutibilidade
+-  Configurar o ambiente com o arquivo .yaml
 -  Baixar as bases BraTS 2020/2024.  
 -  Ajustar variáveis de Path nos notebooks.  
 -  Executar `Dataset_viz_allslices_dataset_creation.ipynb` para criar splits/metadata.  
