@@ -95,6 +95,7 @@ VAR_CENARIO = r"D:\all_slices_dataset\split_a_ser_utilizado"
 
 ### 4.2) Notebooks de **treino**  
 **Cenários:** Baseline (2020, 2024) e Mixdataset_full  
+
 **Parâmetros típicos:**
 ```python
 VAR_CENARIO = r"D:\all_slices_dataset\split_a_ser_utilizado"
@@ -118,6 +119,7 @@ MASK = "mascara"
 
 ### 4.3) Notebooks de **inferência**  
 **Cenários:** Crossdataset (2020→2024; 2024→2020) e Mixdataset (testes 2020 e 2024)  
+
 **Parâmetros típicos:**
 ```python
 VAR_CENARIO = r"D:\all_slices_dataset\split_a_ser_utilizado"
